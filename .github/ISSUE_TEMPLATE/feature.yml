@@ -1,0 +1,11 @@
+name: Feature request
+description: Propose a bounded improvement.
+body:
+  - type: textarea
+    id: problem
+    attributes: {label: Problem, description: What developer failure would this prevent?}
+    validations: {required: true}
+  - type: textarea
+    id: source
+    attributes: {label: Protocol source and limits, description: Link primary specifications and state what remains out of scope.}
+    validations: {required: true}
