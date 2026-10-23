@@ -38,6 +38,11 @@ The next step is still an isolated end-to-end test: discover the catalog, subscr
 
 ## Release
 
-MCP Event Contract Lab v0.1.0 is MIT-licensed, zero-dependency, and includes a browser UI, CLI, portable audit skill, synthetic examples, threat model, privacy/security guidance, tests, and release checklist. Repository and live-demo links will be finalized only after exact-commit CI and deployment verification.
+MCP Event Contract Lab v0.1.0 is MIT-licensed, zero-dependency, and includes a browser UI, CLI, portable audit skill, synthetic examples, threat model, privacy/security guidance, tests, and release checklist.
+
+- Repository: https://github.com/Huzaifa-Asif/mcp-event-contract-lab
+- Live app: https://huzaifa-asif.github.io/mcp-event-contract-lab/
+
+The app has not been submitted to, approved for, or published in the OpenAI directory. This article remains a launch draft; it has not been posted to an editorial or social destination.
 
 _Draft prepared 2026-10-24 MYT. No editorial publication destination has been selected or authorized._
